@@ -236,7 +236,6 @@
     <string name="pref_video_quality_default" translatable="false">6</string>
     <string name="pref_video_quality_entry_4kdci" translatable="false">4k DCI</string>
     <string name="pref_video_quality_entry_4kuhd" translatable="false">4k UHD</string>
-    <string name="pref_video_quality_entry_slowmotion" translatable="false">SlowMotion</string>
     <string name="pref_video_quality_entry_1080p" translatable="false">HD 1080p</string>
     <string name="pref_video_quality_entry_720p" translatable="false">HD 720p</string>
     <string name="pref_video_quality_entry_480p" translatable="false">SD 480p</string>
